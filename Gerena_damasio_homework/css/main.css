@@ -1,0 +1,12 @@
+body{
+	width: 600px;
+	margin:0 auto;
+	background-color: rgba(10,100,10,0.7);
+}
+h1,h2{
+	color: #ffe;
+}
+#Fcanvas,#Scanvas,#Tcanvas,#FourCanvas,#FiveCanvas,#SixCanvas,#SevenCanvas{
+    		border:3px dotted black;
+    		background-color: #fff;
+    	};
