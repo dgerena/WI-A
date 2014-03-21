@@ -1,0 +1,37 @@
+/* css file created by damasio eli gerena IV */
+*{
+	margin: 0 auto;
+}
+.step{
+	border-radius: 5px;
+	width:560px;
+	font-size: 3.3em;
+	padding: 10px;
+}
+#step-9{
+	width: 1000px;
+}
+.past,.future{
+	opacity: 0.1;
+	background-color: #ccc;
+	border:solid 1px black;
+}
+.present{
+	background-color: white;
+	opacity: 1;
+	z-index: 90000;	
+	border:solid 1px black;
+
+}
+body a{
+	color: black;
+	text-decoration: none;
+}
+.last{
+	color: black;
+	border: none;
+	font-size: 10em;
+}
+.last a,.last span a{
+	font-size: 1em;
+}
